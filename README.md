@@ -1,4 +1,14 @@
-## Hi there 👋
+## 👋 Привет, я Юлия!
+ <h1>🚀 Добро пожаловать в мой профиль!</h1>
+
+## 🔥 Analyst Portfolio
+
+
+## 💬 Контакты:
+<p align="center">
+  <a href="@Hiagara">Telegram</a> •
+  <a href="juliya_tim@inbox.ru">Email</a>
+</p>
 
 <!--
 **Utsumi1/Utsumi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
