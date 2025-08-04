@@ -1,11 +1,12 @@
 ## 👋 Привет, я Юлия!
 🚀 Добро пожаловать в мой профиль!
 
-## 🔥 Analyst Portfolio
-
+## 🔥 Портфолио аналитика данных
+[Ознакомиться с портфолио](https://github.com/Utsumi1/Data_Analyst_Portfolio)
 
 ## 💬 Контакты:
-
+[<img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="24"> Telegram](https://t.me/hiagara)
+[<img src="https://img.icons8.com/fluency/48/email-sign.png" width="24"> Email](mailto:juliya_tim@inbox.ru)
 
 <!--
 **Utsumi1/Utsumi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
