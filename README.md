@@ -2,10 +2,14 @@
 Добро пожаловать в мой профиль!
 
 ## 💬 Контакты для связи со мной:
+Почта: juliya_tim@inbox.ru
+Телеграм: @Hiagara
+
+
+<!--
 - [<img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="24"> Telegram](https://t.me/hiagara)
 - [<img src="https://img.icons8.com/fluency/48/email-sign.png" width="24"> Email](mailto:juliya_tim@inbox.ru)
 
-<!--
 **Utsumi1/Utsumi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
